@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hello 👋, I'm James!
+
+<a href="https://www.linkedin.com/in/james-owens-70275b1b6/">
+  <img align="left" alt="James' LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/15Jowens">
+  <img align="left" alt="John's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/twitter.svg" />
+</a>
+
+<br />
+<br />
 
 <!--
-**jowen005/jowen005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
