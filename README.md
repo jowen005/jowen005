@@ -32,7 +32,7 @@ I am a research assistant in the Neuro-Information Retrieval and Data Science ([
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/csharp.svg"></code>
 <code><img height="32" src="java-logo-svgrepo-com.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/mysql.svg"></code>
+<code><img height="32" src= "matlab-svgrepo-com.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/unity.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/latex.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/markdown.svg"></code>
-<code><img height="32" src= "matlab-svgrepo-com.svg"></code>
