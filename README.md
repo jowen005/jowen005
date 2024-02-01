@@ -10,6 +10,10 @@
 <br />
 <br />
 
+[Computer Science Website](https://jowen005.github.io/)
+
+<br />
+
 Hello, My name is **James Owens**, a Computer Science and Game Studies undergraduate student at [**Old Dominion University**](https://www.odu.edu/). 
 I am a research assistant in the Neuro-Information Retrieval and Data Science ([NIRDS](https://nirdslab.github.io/)) Lab at Old Dominion University.
 
